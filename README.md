@@ -13,4 +13,9 @@ npm install expo install expo-linear-gradient
 npm start
 
 
+ ![first](https://user-images.githubusercontent.com/54033086/111385396-1bc91c00-8681-11eb-9315-85d58a61c818.png)
+
+
+
+
 
