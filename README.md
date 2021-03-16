@@ -12,6 +12,7 @@ expo install react-native-gesture-handler react-native-reanimated
 npm install expo install expo-linear-gradient
 npm start
 
+you can replace images you want.
 
  ![first](https://user-images.githubusercontent.com/54033086/111385396-1bc91c00-8681-11eb-9315-85d58a61c818.png)
 
